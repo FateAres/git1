@@ -5,3 +5,7 @@ function suma(){
 function resta(){
     return 2-1;
 }
+
+function multi(){
+    return 2*1;
+}
